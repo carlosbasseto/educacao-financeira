@@ -1,3 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+}
+
+h1:before,
+h1:after {
+  content: "";
+  width: 23%;
+  height: 5px;
+  background: #96ed8d;
+  position: absolute;
+  top: 65%;
+}
+h1:before {
+  left: 0;
+}
+h1:after {
+  right: 0;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#reis-paragrafo {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#titulo2-reis {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#reis-imagem {
+  width: 50%;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+#titulo3-reis {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lista-container {
+  margin: 20px;
+}
+
+ul {
+  margin: 20px;
+  padding: 0;
+}
+
+li {
+  text-align: center;
+}
+
 .imagem {
   max-width: 700px;
   max-height: 500px;
