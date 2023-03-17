@@ -4,10 +4,84 @@
   box-sizing: border-box;
 }
 
+.titulo-principal {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.titulo-principal {
+  text-align: center;
+  position: relative;
+}
+
+.titulo-principal:before,
+.titulo-principal:after {
+  content: "";
+  width: 38%;
+  height: 5px;
+  background: #96ed8d;
+  position: absolute;
+  top: 65%;
+}
+.titulo-principal:before {
+  left: 0;
+}
+.titulo-principal:after {
+  right: 0;
+}
+
+#reis-imagem2{
+  margin-top:20px;
+  height:100px;
+}
+
+#cruzeiro-imagem-1942-1967{
+  margin-top:20px;
+  height:100px;
+}
+
+#cruzeiro-novo-imagem{
+  margin-top:20px;
+  height:100px;
+}
+
+#cruzeiro-1967-1970{
+  margin-top:20px;
+  height:100px;
+}
+
+#cruzado-imagem{
+  margin-top:20px;
+  height:100px;
+}
+
+#cruzado-novo-imagem{
+  margin-top:20px;
+  height:100px;
+}
+
+#Cruzeiro-1990-1993{
+  margin-top:20px;
+  height:100px;
+}
+
+#cruzado-real-imagem{
+  margin-top:20px;
+  height:100px;
+}
+
+#real-imagem{
+  margin-top:20px;
+  height:100px;
+}
+
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
+  color:rgb(51, 50, 54)
 }
 
 h1 {
@@ -49,7 +123,9 @@ p {
   text-align: center;
   margin-top: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(51, 50, 54)
 }
+
 
 #reis-imagem {
   width: 50%;
@@ -58,11 +134,14 @@ p {
   margin: auto;
 }
 
+
+
 #titulo3-reis {
   font-size: 30px;
   text-align: center;
   margin-top: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(51, 50, 54)
 }
 
 .lista-container {
@@ -72,12 +151,93 @@ p {
 ul {
   margin: 20px;
   padding: 0;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-li {
+#princesa-isabel{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+}
+
+#d-pedro1{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+}
+
+#d-pedro2{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+}
+
+#cruzeiro-1942-1967-principal{
+  width: 50%;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
+  padding-top: 20px;
+  color:rgb(51, 50, 54)
 }
 
+h3 {
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+}
+
+h3:before,
+h3:after {
+  content: "";
+  width: 35%;
+  height: 5px;
+  background: #96ed8d;
+  position: absolute;
+  top: 75%;
+}
+h3:before {
+  left: 0;
+}
+h3:after {
+  right: 0;
+}
+
+#cruzeiro-1942-1967 {
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+}
+
+#titulo3-cruzeiro1{
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+}
+
+#Getúlio-Vargas{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+}
+
+#Eurico-Gaspar-Dutra{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+}
+
+#uscelino-Kubitschek{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+}
 .imagem {
   max-width: 700px;
   max-height: 500px;
@@ -109,3 +269,6 @@ li {
   background-color: white;
   overflow: hidden;
 }
+
+
+
