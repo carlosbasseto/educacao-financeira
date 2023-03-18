@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 .titulo-principal {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
@@ -313,6 +314,225 @@ h3:after {
 }
 
 #João-Figueiredo {
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.cruzeiro-1970-1986{
+  width: 50%;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.titulo-principal-cruzeiro-1970-1986 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+}
+
+.titulo-principal-cruzeiro-1970-1986 {
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+}
+
+.titulo-principal-cruzeiro-1970-1986:before,
+.titulo-principal-cruzeiro-1970-1986:after {
+  content: "";
+  width: 33%;
+  height: 5px;
+  background: #96ed8d;
+  position: absolute;
+  top: 75%;
+}
+.titulo-principal-cruzeiro-1970-1986:before {
+  left: 0;
+}
+.titulo-principal-cruzeiro-1970-1986:after {
+  right: 0;
+}
+
+.governantes-cruzeiro-1970-1986{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+  font-size: 30px;
+}
+
+.comparacao-cruzeiro-1970-1986{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+  font-size: 30px;
+}
+
+.Emílio-Garrastazu-Médici2{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.Ernesto-Geisel2{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.João-Figueiredo2{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.José-Sarney{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.cedula-cruzado{
+  width: 50%;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.titulo-cruzado {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+}
+
+.titulo-cruzado {
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+}
+
+.titulo-cruzado:before,
+.titulo-cruzado:after {
+  content: "";
+  width: 35%;
+  height: 5px;
+  background: #96ed8d;
+  position: absolute;
+  top: 75%;
+}
+.titulo-cruzado:before {
+  left: 0;
+}
+.titulo-cruzado:after {
+  right: 0;
+}
+
+.governo-cruzado{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+  font-size: 30px;
+}
+
+.comparacao-cruzado{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+  font-size: 30px;
+}
+
+.José-Sarney2{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.Itamar-Franco{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.Fernando-Collor-Mello{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.cedula-cruzado-novo{
+  width: 50%;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.titulo-cruzado-novo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+}
+
+.titulo-cruzado-novo {
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+}
+
+.titulo-cruzado-novo:before,
+.titulo-cruzado-novo:after {
+  content: "";
+  width: 32%;
+  height: 5px;
+  background: #96ed8d;
+  position: absolute;
+  top: 75%;
+}
+.titulo-cruzado-novo:before {
+  left: 0;
+}
+.titulo-cruzado-novo:after {
+  right: 0;
+}
+
+.governo-cruzado-novo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+  font-size: 30px;
+}
+
+.comparando-cruzadonovo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(51, 50, 54);
+  font-size: 30px;
+}
+
+.José-Sarney3{
+  margin: 20px;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+}
+
+.Fernando-Collor-Mello2{
   margin: 20px;
   padding: 0;
   align-items: center;
