@@ -4,9 +4,8 @@
   box-sizing: border-box;
 }
 
-
 .titulo-principal {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center;
   padding-top: 20px;
   font-size: 30px;
@@ -320,7 +319,7 @@ h3:after {
   height: 150px;
 }
 
-.cruzeiro-1970-1986{
+.cruzeiro-1970-1986 {
   width: 50%;
   height: 200px;
   display: block;
@@ -356,7 +355,7 @@ h3:after {
   right: 0;
 }
 
-.governantes-cruzeiro-1970-1986{
+.governantes-cruzeiro-1970-1986 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -364,7 +363,7 @@ h3:after {
   font-size: 30px;
 }
 
-.comparacao-cruzeiro-1970-1986{
+.comparacao-cruzeiro-1970-1986 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -372,35 +371,35 @@ h3:after {
   font-size: 30px;
 }
 
-.Emílio-Garrastazu-Médici2{
+.Emílio-Garrastazu-Médici2 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Ernesto-Geisel2{
+.Ernesto-Geisel2 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.João-Figueiredo2{
+.João-Figueiredo2 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.José-Sarney{
+.José-Sarney {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.cedula-cruzado{
+.cedula-cruzado {
   width: 50%;
   height: 200px;
   display: block;
@@ -436,7 +435,7 @@ h3:after {
   right: 0;
 }
 
-.governo-cruzado{
+.governo-cruzado {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -444,7 +443,7 @@ h3:after {
   font-size: 30px;
 }
 
-.comparacao-cruzado{
+.comparacao-cruzado {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -452,28 +451,28 @@ h3:after {
   font-size: 30px;
 }
 
-.José-Sarney2{
+.José-Sarney2 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Itamar-Franco{
+.Itamar-Franco {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Fernando-Collor-Mello{
+.Fernando-Collor-Mello {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.cedula-cruzado-novo{
+.cedula-cruzado-novo {
   width: 50%;
   height: 200px;
   display: block;
@@ -509,7 +508,7 @@ h3:after {
   right: 0;
 }
 
-.governo-cruzado-novo{
+.governo-cruzado-novo {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -517,7 +516,7 @@ h3:after {
   font-size: 30px;
 }
 
-.comparando-cruzadonovo{
+.comparando-cruzadonovo {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -525,21 +524,21 @@ h3:after {
   font-size: 30px;
 }
 
-.José-Sarney3{
+.José-Sarney3 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Fernando-Collor-Mello2{
+.Fernando-Collor-Mello2 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.cedula-cruzeiro-1990-1993{
+.cedula-cruzeiro-1990-1993 {
   width: 50%;
   height: 200px;
   display: block;
@@ -575,7 +574,7 @@ h3:after {
   right: 0;
 }
 
-.governantes-cruzeiro-1990-1993{
+.governantes-cruzeiro-1990-1993 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -583,7 +582,7 @@ h3:after {
   font-size: 30px;
 }
 
-.comparacao-cruzeiro-1990-1993{
+.comparacao-cruzeiro-1990-1993 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -591,35 +590,35 @@ h3:after {
   font-size: 30px;
 }
 
-.Fernando-Collor-Mello3{
+.Fernando-Collor-Mello3 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Itamar-Franco2{
+.Itamar-Franco2 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Fernando-Henrique-Cardoso{
+.Fernando-Henrique-Cardoso {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.cedula-cruzeiro-real{
+.cedula-cruzeiro-real {
   width: 50%;
   height: 200px;
   display: block;
   margin: auto;
 }
 
-.titulo-principal-cruzeiro-real{
+.titulo-principal-cruzeiro-real {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -648,7 +647,7 @@ h3:after {
   right: 0;
 }
 
-.governantes-cruzeiro-real{
+.governantes-cruzeiro-real {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -656,7 +655,7 @@ h3:after {
   font-size: 30px;
 }
 
-.comparacao-cruzeiro-novo{
+.comparacao-cruzeiro-novo {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -664,21 +663,21 @@ h3:after {
   font-size: 30px;
 }
 
-.Fernando-Collor-Mello4{
+.Fernando-Collor-Mello4 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Itamar-Franco3{
+.Itamar-Franco3 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.cedula-real{
+.cedula-real {
   width: 50%;
   height: 200px;
   display: block;
@@ -714,7 +713,7 @@ h3:after {
   right: 0;
 }
 
-.governantes-reais{
+.governantes-reais {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -722,7 +721,7 @@ h3:after {
   font-size: 30px;
 }
 
-.comparacao-real{
+.comparacao-real {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -730,42 +729,42 @@ h3:after {
   font-size: 30px;
 }
 
-.Itamar-Franco4{
+.Itamar-Franco4 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Fernando-Henrique-Cardoso2{
+.Fernando-Henrique-Cardoso2 {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Luiz-Inácio-Lula-Silva{
+.Luiz-Inácio-Lula-Silva {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Dilma-Rousseff{
+.Dilma-Rousseff {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Michel-Temer{
+.Michel-Temer {
   margin: 20px;
   padding: 0;
   align-items: center;
   height: 150px;
 }
 
-.Jair-Bolsonaro{
+.Jair-Bolsonaro {
   margin: 20px;
   padding: 0;
   align-items: center;
@@ -804,15 +803,14 @@ h4 .imagem {
   overflow: hidden;
 }
 
-.bandeira1{
+.bandeira1 {
   width: 10%;
 }
 
-.bandeira-do-brasil{
-  background-color: #006400;
-    color:white;
-    display:flex;
-    justify-content:space-around;
-    align-items: center;
+.bandeira-do-brasil {
+  background-color: rgb(0, 132, 0);
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-
